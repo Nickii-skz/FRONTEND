@@ -1,3 +1,8 @@
+login <img width="1364" height="624" alt="{E57240CC-5F55-4631-B69E-B34FD3A31A8A}" src="https://github.com/user-attachments/assets/25706000-04d4-40e0-a5b2-fc065b56a39e" />
+inicio <img width="1366" height="632" alt="{E25FE21D-0234-4710-8125-FD254A70CD5F}" src="https://github.com/user-attachments/assets/28bea0c7-cb5c-457c-b077-88f88b5b36ab" />
+
+
+
 # SuperPOS - Point of Sale Frontend
 
 A modern, accessible Point of Sale system built with **Spec-Driven Development (SDD)** methodology using **Hexagonal Architecture**, **SOLID principles**, and **Dependency Inversion**.
